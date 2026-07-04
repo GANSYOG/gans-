@@ -1,0 +1,6 @@
+{
+  "name": "Rent Anything",
+  "description": "Premium rental marketplace for bikes, appliances, business items, and more with a dark modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
